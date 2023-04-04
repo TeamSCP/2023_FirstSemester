@@ -12,7 +12,7 @@
 ### - 📕개인 프로젝트
 
 ```
-  - Grade_Name_Title.pdf 
+  - Grade_Title_Name.pdf 
 ```
 
 ### 📙 개인 공부_1팀
